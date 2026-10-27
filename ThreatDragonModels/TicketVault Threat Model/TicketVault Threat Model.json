@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-10-26",
+  "summary": {
+    "title": "TicketVault Threat Model",
+    "owner": "Nehemia Tewodros",
+    "description": "Online event-ticketing platform. Customers use a web/mobile app and organizers use a portal, all calling a central API server that reads/writes a database and calls an external payment gateway and email/SMS provider.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "TicketVault DFD",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data flow diagram with trust boundaries"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
