@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-10-26",
+  "summary": {
+    "title": "TicketVault",
+    "owner": "Nehemia Tewodros",
+    "description": "Online event-ticketing platform. Customers use a web/mobile app and organizers use a portal, all calling a central API server that reads/writes a database and calls an external payment gateway and email/SMS provider.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
